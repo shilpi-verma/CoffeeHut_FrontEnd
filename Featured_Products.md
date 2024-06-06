@@ -8,3 +8,7 @@
 - **Ristertto**: Short pulled espresso.
 - **Iced Coffee**: Refreshing and cold, served over ice.
 
+## Discounts
+- CoffeeHut_Wallet Discount: 10% off for all purchases made with CoffeeHut_Wallet.
+- Loyal User Discount: Additional 5% off for our loyal customers.
+
