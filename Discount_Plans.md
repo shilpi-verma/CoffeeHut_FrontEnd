@@ -8,3 +8,8 @@
 
 4. **Referral** - Get Rs.100 off when a friend makes their first purchase.
 
+
+# New Discounts
+- CoffeeHut_Wallet: 10% discount on all purchases for users paying with CoffeeHut_Wallet.
+- Loyal User Profile: Additional 5% discount for users with the 'loyal' profile.
+
